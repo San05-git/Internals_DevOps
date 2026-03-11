@@ -1,4 +1,4 @@
-class Sum{
+class sum{
   public class add(int x,int y){
   int z=x+y;
   System.out.println("The value is:"+z);
